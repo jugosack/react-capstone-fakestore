@@ -7,13 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`<a name="readme-top"></a>
-# React metrics webapp capstone project (Module 3)
+# React capstone project: FAKESTORE (Module 3)
 
 <div align="center">
   <img src="me.png" alt="logo" width="200"  height="auto" />
   <br/>
 
-  <h3><b>React metrics webapp capstone project</b></h3>
+  <h3><b>React capstone project: FAKESTORE</b></h3>
 
 </div>
 <!-- TABLE OF CONTENTS -->
