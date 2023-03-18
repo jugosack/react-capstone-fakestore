@@ -120,7 +120,9 @@
   font-size: 16px;
   font-style: oblique;
   font-weight: 30;
+  font-family: 'Lato' !important;
 }
+
 
 .ui.container.center {
   display: flex;
@@ -135,6 +137,11 @@
 .headername {
   padding-top: 5px;
 }
+.headerFake{
+  font-family: "Gill Sans", sans-serif !important;
+}
+
+
 
 @media screen and (min-width: 770px) {
   * {
