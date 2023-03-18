@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 // import React, { useEffect, useCallback, useMemo } from 'react';
 import React, { useEffect } from 'react';
 import axios from 'axios';

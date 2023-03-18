@@ -1,9 +1,8 @@
+/* eslint-disable import/no-extraneous-dependencies */
 // eslint-disable-next-line import/no-duplicates
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
-// eslint-disable-next-line import/no-duplicates
-import { useState } from 'react';
 import '../App.css';
 
 const ProductComponent = () => {

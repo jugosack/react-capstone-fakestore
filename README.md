@@ -102,7 +102,7 @@ In the project directory, you can run:
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-# [FAKESTORE](https://)
+# [FAKESTORE](https://fakestore-6p4b.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
