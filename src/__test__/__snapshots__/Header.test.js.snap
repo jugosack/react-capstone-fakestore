@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="ui fixed menu"
+>
+  <div
+    className="ui container center"
+  >
+    <div
+      className="back-btn"
+    >
+      <a
+        aria-current="page"
+        className="active"
+        href="/"
+        onClick={[Function]}
+      >
+        <img
+          alt="Back button"
+          src="https://img.icons8.com/ios-glyphs/30/ffffff/circled-left-2.png"
+        />
+      </a>
+    </div>
+    <div
+      className="headername"
+    >
+      <h2
+        className="headerFake"
+      >
+        FakeShop
+      </h2>
+    </div>
+    <div
+      aria-hidden="true"
+      className="position"
+    >
+      <img
+        alt="mic"
+        className="mic"
+        src="mic.png"
+      />
+      <img
+        alt="setting"
+        className="setting"
+        src="setting.png"
+      />
+    </div>
+  </div>
+</div>
+`;
