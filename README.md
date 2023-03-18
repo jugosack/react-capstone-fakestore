@@ -1,12 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`<a name="readme-top"></a>
 # React capstone project: FAKESTORE (Module 3)
 
 <div align="center">
@@ -102,13 +93,13 @@ In the project directory, you can run:
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-# [FAKESTORE](https://fakestore-6p4b.onrender.com)
+# [FAKESTORE](https://fakestoreapi-898e.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Project Demonstration Video <a name="Demonstration Video"></a>
 
-- [Demo-Video-for-metrics-webapp-capstone-project](https://)
+- [Demo-Video-for-metrics-webapp-capstone-project](https://www.loom.com/share/cd75bd9d2a5b4ebe8d9a3adebcccea34)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
